@@ -81,6 +81,45 @@ Tools & Libraries
     
     Focused on real-world applicability
 
+🔹 FRIDAY – Voice-Based AI Assistant (In Progress)
+
+        FRIDAY is a modular, voice-controlled AI assistant inspired by JARVIS, designed to automate system tasks and enable intelligent human–computer interaction.
+
+✅ Current Features
+
+        Voice-based command recognition using Speech Recognition
+        
+        Text-to-speech responses using pyttsx3
+        
+        Application control (open/close desktop apps)
+        
+        Smart web browsing with Chrome profile handling
+        
+        Voice-driven WhatsApp message automation
+        
+        NLP-based intent classification using a trained ML model
+        
+        System monitoring (battery status, CPU usage, volume control)
+
+🔧 Tech Stack
+
+        Python, SpeechRecognition, pyttsx3, TensorFlow, NLP, PyAutoGUI, OpenCV
+
+🚀 Future Implementations
+
+        Context-aware conversations and memory management
+        
+        Self-learning intent expansion
+        
+        Visual brain / node-based reasoning module
+        
+        Real-time decision-making and task planning
+        
+        Integration with computer vision for environment awareness
+        
+        Modular plug-and-play AI components
+
+
 📈 What I’m Currently Learning
 
     Advanced Machine Learning concepts
