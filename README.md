@@ -18,78 +18,78 @@ Actively improving my skills for placements and industry roles
 
 Programming
 
-Python
+    Python
 
 Machine Learning
 
-Supervised & Unsupervised Learning
-
-Model evaluation & metrics
-
-Anomaly Detection
+    Supervised & Unsupervised Learning
+    
+    Model evaluation & metrics
+    
+    Anomaly Detection
 
 Computer Vision
 
-OpenCV
-
-Face Recognition
-
-Real-time camera-based systems
+    OpenCV
+    
+    Face Recognition
+    
+    Real-time camera-based systems
 
 NLP
 
-Text preprocessing
-
-Spam detection
-
-Feature extraction (TF-IDF)
+    Text preprocessing
+    
+    Spam detection
+    
+    Feature extraction (TF-IDF)
 
 Tools & Libraries
 
-NumPy, Pandas
-
-Scikit-learn
-
-OpenCV
-
-Git & GitHub
+    NumPy, Pandas
+    
+    Scikit-learn
+    
+    OpenCV
+    
+    Git & GitHub
 
 📌 Featured Projects
 🔹 Face Recognition-Based Intruder Detection System
 
-Real-time webcam-based face recognition
-
-Detects unauthorized users as intruders
-
-Captures intruder images with timestamp
-
-Built using Python, OpenCV, face_recognition
+    Real-time webcam-based face recognition
+    
+    Detects unauthorized users as intruders
+    
+    Captures intruder images with timestamp
+    
+    Built using Python, OpenCV, face_recognition
 
 🔹 SMS Spam Detection using Machine Learning
 
-Text classification system for spam vs ham messages
-
-Implemented ML pipeline with preprocessing and evaluation
-
-Uses TF-IDF + ML classifiers
+    Text classification system for spam vs ham messages
+    
+    Implemented ML pipeline with preprocessing and evaluation
+    
+    Uses TF-IDF + ML classifiers
 
 🔹 Anomaly Detection System
 
-Detects unusual patterns in data
-
-Useful for fraud detection and monitoring systems
-
-Focused on real-world applicability
+    Detects unusual patterns in data
+    
+    Useful for fraud detection and monitoring systems
+    
+    Focused on real-world applicability
 
 📈 What I’m Currently Learning
 
-Advanced Machine Learning concepts
-
-Deep Learning fundamentals
-
-Improving project architecture & code quality
-
-Interview-oriented ML explanations
+    Advanced Machine Learning concepts
+    
+    Deep Learning fundamentals
+    
+    Improving project architecture & code quality
+    
+    Interview-oriented ML explanations
 
 🎯 Career Goal
 
