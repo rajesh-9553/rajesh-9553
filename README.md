@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=⚡+Rajesh+S;AI+Engineer;Building+Real-World+AI+Systems" />
+</p>
+
+
 👋 Hi, I’m Rajesh S
 
 🎓 B.Tech student in Artificial Intelligence & Machine Learning
